@@ -1,6 +1,6 @@
 # Ellie - Your GPT-3 powered email assistant ❤️
 
-Get a licence key for Ellie here: https://ellieai.com
+Get a licence key for Ellie here: https://tryellie.com
 
 
 Latest release notes: https://github.com/squarecat/ellie/releases
