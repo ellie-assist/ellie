@@ -1,4 +1,4 @@
-# Ellie - Your GPT-3 powered email assistant ❤️
+# Ellie - Your AI powered email assistant ❤️
 
 Get a licence key for Ellie here: https://tryellie.com
 
